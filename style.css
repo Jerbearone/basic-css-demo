@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+img {
+    padding-top: 1em;
+    width: 100%;
+}
+
+nav {
+    text-align: center;
+    padding: 0.5em;
+}
+
+a{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0.5em;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: black;
+    font-size: 1.7em;
+    
+
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(230, 219, 204);
+}
